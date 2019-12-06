@@ -21,7 +21,7 @@ const example_function = function(parm1, parm2) {}
 
 **Arrow Functions**:
 
-**IIFE (immediately invoked function expressions)**: 
+**IIFE (immediately invoked function expressions)**:
 
 (https://mariusschulz.com/blog/use-cases-for-javascripts-iifes)[Use Cases for JavaScript's IIFEs]
 
@@ -42,3 +42,11 @@ const example_function = function(parm1, parm2) {}
 ### Concepts
 
 **Separation of Concerns**: 
+
+**Scoping**:
+
+- Global
+- Local
+- Lexical
+- Block scope
+- Scope pollution

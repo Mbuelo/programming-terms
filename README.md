@@ -64,18 +64,6 @@ const example_function = function(parm1, parm2) {}
 - Scope pollution
 - Tight scoping
 
-### Data Types
-
-**Strings**
-**Numbers**
-**Booleans**
-**Arrays / Lists**
-
-- Nested Arrays
-- Array Literal
-- Array Elements
-- Array Index
-
 ### Loops
 
 **For Loop**

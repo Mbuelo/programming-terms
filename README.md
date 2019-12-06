@@ -1,6 +1,8 @@
 
 ### Functions
 
+- Invoking a function
+
 **Function declarations**: are hoisted (function can be called before it is declared). Are assessable in the global namespace.
 
 ``` js
@@ -39,6 +41,8 @@ const example_function = function(parm1, parm2) {}
 
 (https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)[Hoisting]
 
+**High Order Functions**:
+
 ### Concepts
 
 **Mutable vs Immutable**
@@ -66,7 +70,20 @@ const example_function = function(parm1, parm2) {}
 **Numbers**
 **Booleans**
 **Arrays / Lists**
-- Nested Arrarys
+
+- Nested Arrays
 - Array Literal
 - Array Elements
 - Array Index
+
+### Loops
+
+**For Loop**
+**Nested Loop**
+**While Loop**
+**Infinite Loop**
+**DO While**
+
+### Objects
+
+**Object Literal**

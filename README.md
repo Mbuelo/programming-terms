@@ -19,6 +19,8 @@ const example_function = function(parm1, parm2) {}
 
 (https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)[When to use a function declaration vs. a function expression]
 
+**Arrow Functions**:
+
 **IIFE (immediately invoked function expressions)**: 
 
 (https://mariusschulz.com/blog/use-cases-for-javascripts-iifes)[Use Cases for JavaScript's IIFEs]

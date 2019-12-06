@@ -6,7 +6,8 @@
 ``` js
 function example_function(parm1, parm2) {}
 ```
-- Use case:
+
+- Use case: Use Function Declarations when you will need to reuse the function multiple times. Because the function is accessible in the global namespace, the function will persist.
 
 **Function expression**: are not hoisted. Are only accessible by calling the variable.
 
@@ -14,4 +15,27 @@ function example_function(parm1, parm2) {}
 const example_function = function(parm1, parm2) {}
 ```
 
+- Use case: Use Function Expressions when you need only need to perform an operation once. Function Expressions are anonymous, will not pollute the global namespace (limit the number of functions accessible program-wide). Function Expressions can help with application performance & security.
+
 (https://www.freecodecamp.org/news/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0/)[When to use a function declaration vs. a function expression]
+
+**IIFE (immediately invoked function expressions)**: 
+
+(https://mariusschulz.com/blog/use-cases-for-javascripts-iifes)[Use Cases for JavaScript's IIFEs]
+
+**Callbacks / Callback functions**:
+
+
+(https://stackoverflow.com/questions/52125594/what-is-the-difference-between-a-callback-function-helper-function-and-wrapper)[What is the difference between a callback function, helper function and wrapper function?]
+
+**Helper Functions**:
+
+**Wrapper Functions**:
+
+**Hoisting**:
+
+(https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)[Hoisting]
+
+### Concepts
+
+**Separation of Concerns**: 

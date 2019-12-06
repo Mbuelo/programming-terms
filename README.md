@@ -1,13 +1,14 @@
 
 ### Functions
 
-- Function declarations: are hoisted (function can be called before it is declared). Are assessable in the global namespace.
+**Function declarations**: are hoisted (function can be called before it is declared). Are assessable in the global namespace.
 
 ``` js
 function example_function(parm1, parm2) {}
 ```
+- Use case:
 
-- Function expression: are not hoisted. Are only accessible by calling the variable.
+**Function expression**: are not hoisted. Are only accessible by calling the variable.
 
 ``` js
 const example_function = function(parm1, parm2) {}

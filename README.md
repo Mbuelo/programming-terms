@@ -25,6 +25,7 @@ const example_function = function(parm1, parm2) {}
 
 **Callbacks / Callback functions**:
 
+(https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)[JavaScript: What the heck is a Callback?]
 
 (https://stackoverflow.com/questions/52125594/what-is-the-difference-between-a-callback-function-helper-function-and-wrapper)[What is the difference between a callback function, helper function and wrapper function?]
 

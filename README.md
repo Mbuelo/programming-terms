@@ -41,7 +41,15 @@ const example_function = function(parm1, parm2) {}
 
 ### Concepts
 
-**Separation of Concerns**: 
+**Mutable vs Immutable**
+
+**mutating vs non-mutating**
+
+**Separation of Concerns**:
+
+**Modular Code**:
+
+**Instances**:
 
 **Scoping**:
 
@@ -50,3 +58,15 @@ const example_function = function(parm1, parm2) {}
 - Lexical
 - Block scope
 - Scope pollution
+- Tight scoping
+
+### Data Types
+
+**Strings**
+**Numbers**
+**Booleans**
+**Arrays / Lists**
+- Nested Arrarys
+- Array Literal
+- Array Elements
+- Array Index

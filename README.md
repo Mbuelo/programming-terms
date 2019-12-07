@@ -43,11 +43,13 @@ const example_function = function(parm1, parm2) {}
 
 **High Order Functions**:
 
+**Method**:
+
 ### Concepts
 
-**Mutable vs Immutable**
+**Mutable vs Immutable**:
 
-**mutating vs non-mutating**
+**mutating vs non-mutating**:
 
 **Separation of Concerns**:
 
@@ -71,7 +73,9 @@ const example_function = function(parm1, parm2) {}
 **While Loop**
 **Infinite Loop**
 **DO While**
+**For In**
 
 ### Objects
 
-**Object Literal**
+**Object Literal**:
+**Nested Objects**:
